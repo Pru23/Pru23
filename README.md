@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pru23
+- 👋 Hi, I’m Pru Dera
 - 👀 I’m interested in Python, AWS, SQL
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...
